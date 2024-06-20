@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a free open-source collaborative platform - code-cafe**
 
-- 🌱 I’m currently learning **typescript,nextjs,flask**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [myselfsurajit.vercel.app](myselfsurajit.vercel.app)
 
